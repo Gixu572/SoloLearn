@@ -66,17 +66,17 @@ int main()
     // for(int i=0;i<5;i++){
     //     printf("%d\n",i);
     // }
-    int a = 10;
-    int x = 20;
-    int y = sum(a,x);
-    printf("%d\n",y);
+//     int a = 10;
+//     int x = 20;
+//     int y = sum(a,x);
+//     printf("%d\n",y);
     
 
 
-    return 0;
-}
-int sum(int a, int b){
-    int s = a + b; 
-    return s;
+//     return 0;
+// }
+// int sum(int a, int b){
+//     int s = a + b; 
+//     return s;
 
 }
