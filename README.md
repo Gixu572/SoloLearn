@@ -10,7 +10,7 @@ Currently I am Learning C language
 
 ## License & Copyright
 
-© Gautam Singh (Gixu572)
+**© Gautam Singh (Gixu572)**
 
 **Licensed under**
 
