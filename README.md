@@ -10,9 +10,6 @@ Currently I am Learning C language
 
 ## License
 
-
-
-
-
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+© Gautam Singh (Gixu572)
+Licensed under the[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](LICENSE)
 
