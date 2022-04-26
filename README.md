@@ -8,8 +8,9 @@ Currently I am Learning C language
 - [@Gixu572](https://www.github.com/Gixu572)
 
 
-## License
+## License & Copyright
 
 © Gautam Singh (Gixu572)
-Licensed under the[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](LICENSE)
+
+Licensed under the [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](LICENSE)
 
