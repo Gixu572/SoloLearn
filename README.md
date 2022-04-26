@@ -1,3 +1,11 @@
-# Hi I am Gautam
-# This is my git repo where I post my code which I learn from Sololearn
-# Currently I am learning C 
+
+# Learning to code from SoloLearn
+
+Hi I am Gautam Singh and I am Learning to code from SoloLearn
+Currently I am Learning C language
+
+
+## Authors
+
+- [@Gixu572](https://www.github.com/Gixu572)
+
