@@ -1,14 +1,11 @@
 #include <stdio.h>
 
-int * test() {
-  static int x[4];
-  for(int i=0;i<4;i++){
-    x[i] = i%2;
-  }
-  return x;
-} 
-
-int main() {
-  int * arr = test();
-  printf("%d", *(arr+3));
+int main()
+{
+  char name[20];
+  printf("Hello enter your name\n");
+  fgets(name, 15, stdin);
+  fputs(name,stdout);
+  // printf(name);
+  return 0;
 }
