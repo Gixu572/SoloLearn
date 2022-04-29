@@ -1,4 +1,4 @@
-## **Learning C with SoloLearn** 
+## **Learning C with SoloLearn**
 #  So these are my code files
 ## Authors
 
@@ -7,7 +7,7 @@
 
 ## License & Copyright
 
-**© Gautam Singh (Gixu572)**
+- **© Gautam Singh (Gixu572)**
 
 **Licensed under**
 
