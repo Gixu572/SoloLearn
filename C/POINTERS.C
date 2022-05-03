@@ -14,6 +14,13 @@ int main()
     // int orders[5] = {100, 220, 37, 16, 98};
 
     // printf("Total orders is %d\n", add_up(orders, 5));
+
+    // int a = 10;
+    // int *b= &a;
+    // printf("%d\n",*b);
+    // printf("%d\n",a);
+    // printf("%x\n",b);
+    // printf("%x\n",&a);
     return 0;
 }
 // int add_up(int *a, int num_elements)
